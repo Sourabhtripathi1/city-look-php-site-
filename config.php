@@ -1,6 +1,6 @@
 <?php
 //$conn = mysqli_connect("sql105.epizy.com", "epiz_34119570", "SvT6GFFgkTJ", "epiz_34119570_citylook");
- $conn = mysqli_connect("localhost", "root", "", "citylook");
+ $conn = mysqli_connect("sql12.freemysqlhosting.net", "sql12671981", "6a3FPd7l2Q", "sql12671981");
 
 ?>
 
